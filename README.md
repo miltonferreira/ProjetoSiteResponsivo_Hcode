@@ -5,7 +5,7 @@
 Link para acessa resultado do projeto:
 <br>
 <br>
-<a href="https://miltonferreira.github.io/ProjetoSiteResponsivo_Hcode/" target="_blank">Acessa Site Responsivo</a>
+<a href="https://miltonferreira.github.io/ProjetoSiteResponsivo_Hcode/" target="_blank">Acesse o Site Responsivo</a>
 <hr>
 
 Codigos em HTML, CSS e JavaScript feitos durante as aulas de HTML 5 da HCODE Treinamentos.
