@@ -8,8 +8,6 @@ Link para acessa resultado do projeto:
 <a href="https://miltonferreira.github.io/ProjetoSiteResponsivo_Hcode/" target="_blank">Acessa Site Responsivo</a>
 <hr>
 
-<p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a></p>
-
 Codigos em HTML, CSS e JavaScript feitos durante as aulas de HTML 5 da HCODE Treinamentos.
 
 - Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB
